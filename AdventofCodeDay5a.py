@@ -1,3 +1,5 @@
+## I never finished this day - had to use someone else's solution because I ran out of time. :D TY to https://www.reddit.com/user/junefish/ - https://raw.githubusercontent.com/junefish/adventofcode/main/adventofcode2022/day5/day5problem1.py
+
 f = open("./AdventofCodeDay5.txt", "r")
 
 g = f.readlines()
